@@ -72,3 +72,12 @@
 .action-img{
     border-radius: 50px;
 }
+/* Productive Users Section */
+.backgroung-color{
+    background-color: #f0f2ff;
+    padding: 48px 24px;
+    /* max-width: 80%; */
+    /* margin-top: 50px; */
+    margin: 50px 100px;
+    border-radius: 20px;
+}
