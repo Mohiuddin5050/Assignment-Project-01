@@ -157,3 +157,28 @@
     color: #757575;
 }
 /* Let’s Get In Touch Section */
+.touch{
+    text-align: center;
+    /* margin-top: 100px; */
+    background: #F5F8FF;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    margin: 100px;
+    border-radius: 10px;
+
+}
+.touch-title{
+    font-size: 50px;
+    font-weight: bold;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.touch-subtitle{
+    font-size: 16px;
+    color: #757575;
+    padding-bottom: 20px;
+}
+.wc{
+    border-radius: 16px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
